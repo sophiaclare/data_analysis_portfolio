@@ -10,11 +10,11 @@ This repository serves as a showcase of my skills, a platform to share my projec
 - [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)
 
 # Table of Contents
-- [About](https://github.com/sophiaclare/data_analysis_portfolio/edit/main/README.md#about)
-- [Portfolio Projects](https://github.com/sophiaclare/data_analysis_portfolio/edit/main/README.md#portfolio-projects)
-- [R](https://github.com/sophiaclare/data_analysis_portfolio/edit/main/README.md#r)
-  * [New Zealand Citizenship by Country of Birth](https://sophiaclare.github.io/R-Projects/)
-- [Certificates](https://github.com/sophiaclare/data_analysis_portfolio/edit/main/README.md#certificates) 
+- [About](https://github.com/sophiaclare/data_analysis_portfolio#about)
+- [Portfolio Projects](https://github.com/sophiaclare/data_analysis_portfolio#portfolio-projects)
+- [R](https://github.com/sophiaclare/data_analysis_portfolio#r)
+  * [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/data_analysis_portfolio#new-zealand-citizenship-by-country-of-birth)
+- [Certificates](https://github.com/sophiaclare/data_analysis_portfolio#certificates) 
 
 
 # Portfolio Projects
