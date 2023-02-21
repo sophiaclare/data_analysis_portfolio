@@ -15,6 +15,8 @@ This repository serves as a showcase of my skills, a platform to share my projec
 - [R](https://github.com/sophiaclare/data_analysis_portfolio#r)
   * [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/data_analysis_portfolio#new-zealand-citizenship-by-country-of-birth)
 - [Certificates](https://github.com/sophiaclare/data_analysis_portfolio#certificates) 
+- [Tableau]
+  * [Penn State DataFest 2021]
 
 
 # Portfolio Projects
@@ -31,6 +33,18 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** R, Tidyverse, ggplot2, dplyr, scales
 
 **Results:** Review of the top countries that migrants to New Zealand were born in. 
+
+## Tableau 
+
+### [Penn State DataFest 2021](https://drive.google.com/file/d/17d4qNMA1fWdwak2E3hV8WgiuTk2t6Yia/view?usp=sharing)
+
+**Description** Entry for a competition held at Penn State in 2021, where each group is given a task and a data set to work with. My group recieved data on the Opiod Epidemic in Germany, and were required to create data visualizations and a predictive model for risk levels.
+
+**Skills** data cleaning, data analysis, data visualization, statistical modelling
+
+**Technology** Tableau, R
+
+**Results** Constructing a Risk Profile for Drug Abuse in Germany
 
 
 # Certificates 
