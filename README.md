@@ -1,4 +1,4 @@
-# Sophia Jenkinson - Data Analysis Portfolio
+# Sophia Jenkinson - Data Analysis Portfolio 📚
 
 # About
 
