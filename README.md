@@ -22,7 +22,7 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)!
 # Portfolio Projects
 ## R 
 
-[New Zealand Citizenship by Country of Birth](https://sophiaclare.github.io/R-Projects/)
+### [New Zealand Citizenship by Country of Birth](https://sophiaclare.github.io/R-Projects/)
 
 **Description:** This dataset shows the migration to and from New Zealand by country and citizenship from 1979 to 2016. Curated data by figure.nz, original data from Stats NZ. Dataset licensed under Creative Commons 4.0 - CC BY 4.0. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles.
 
