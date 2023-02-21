@@ -6,16 +6,15 @@ Hi there, I'm Sophia! I am a current postgraduate student at the University of E
 
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
-- [Resume](https://github.com/sophiaclare/data_analysis_portfolio/blob/266640991f57de44e689dee9d91f9b624d3bbbbf/Analyst%20Resume%20-%20Sophia%20Jenkinson.pdf) in PDF format. 
-- [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)! 
+- [Resume](https://github.com/sophiaclare/data_analysis_portfolio/blob/266640991f57de44e689dee9d91f9b624d3bbbbf/Analyst%20Resume%20-%20Sophia%20Jenkinson.pdf)
+- [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)
 
-### Table of contents
-- About
-- R
+# Table of Contents
+- [About](https://github.com/sophiaclare/data_analysis_portfolio/edit/main/README.md#about)
+- [Portfolio Projects](https://github.com/sophiaclare/data_analysis_portfolio/edit/main/README.md#portfolio-projects)
+- [R](https://github.com/sophiaclare/data_analysis_portfolio/edit/main/README.md#r)
   * [New Zealand Citizenship by Country of Birth](https://sophiaclare.github.io/R-Projects/)
-- Python
-- SQL
-- Tableau 
+- [Certificates](https://github.com/sophiaclare/data_analysis_portfolio/edit/main/README.md#certificates) 
 
 
 # Portfolio Projects
@@ -32,3 +31,8 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** R, Tidyverse, ggplot2, dplyr, scales
 
 **Results:** Review of the top countries that migrants to New Zealand were born in. 
+
+
+# Certificates 
+
+- [Google Data Analytics Certificate](https://www.credly.com/badges/618e2270-137a-441c-8a6e-4fa487ec1171/linked_in_profile)
