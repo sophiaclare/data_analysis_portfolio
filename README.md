@@ -10,7 +10,7 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)!
 
 ### Table of contents
 - R
-[New Zealand Citizenship by Country of Birth](https://sophiaclare.github.io/R-Projects/)
+  * [New Zealand Citizenship by Country of Birth](https://sophiaclare.github.io/R-Projects/)
 - Python
 - SQL
 - Tableau 
