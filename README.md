@@ -1,6 +1,6 @@
-## Sophia Jenkinson - Data Analysis Portfolio
+# Sophia Jenkinson - Data Analysis Portfolio
 
-# ABOUT
+# About
 
 Hi there, I'm Sophia! I am a current postgraduate student at the University of Edinburgh, and future data analyst. I am continually working to improve my technical skills through courses and personal projects.
 
@@ -20,6 +20,8 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)!
 
 
 # Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
 ## R 
 
 ### [New Zealand Citizenship by Country of Birth](https://sophiaclare.github.io/R-Projects/)
