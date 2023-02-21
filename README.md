@@ -9,4 +9,10 @@ My [Resume](https://github.com/sophiaclare/data_analysis_portfolio/blob/26664099
 Check me out on [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)! 
 
 ### Table of contents
-New Zealand Migration Analysis - R
+- R
+[New Zealand Citizenship by Country of Birth](https://sophiaclare.github.io/R-Projects/)
+- Python
+- SQL
+- Tableau 
+
+
