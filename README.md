@@ -16,7 +16,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
   * [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/data_analysis_portfolio#new-zealand-citizenship-by-country-of-birth)
 - [Tableau](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#tableau)
   * [Penn State DataFest 2021](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#penn-state-datafest-2021)
-- [MCM/ICM Mathematical Modelling Competition](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#mathematical-modelling-competition)
+- [MCM/ICM Mathematical Modelling Competition](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#mcmicm-mathematical-modelling-competition)
   * [Modelling the Spread of Vespa Mandarinia in Washington State](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#modelling-the-spread-of-vespa-mandarinia-in-washington-state)
 - [Certificates](https://github.com/sophiaclare/data_analysis_portfolio#certificates) 
 
