@@ -16,6 +16,8 @@ This repository serves as a showcase of my skills, a platform to share my projec
   * [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/data_analysis_portfolio#new-zealand-citizenship-by-country-of-birth)
 - [Tableau](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#tableau)
   * [Penn State DataFest 2021](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#penn-state-datafest-2021)
+- [Mathematical Modelling Competition]()
+  * [Modelling the Spread of Vespa Mandarinia in Washington State]
 - [Certificates](https://github.com/sophiaclare/data_analysis_portfolio#certificates) 
 
 
@@ -46,6 +48,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results** Constructing a Risk Profile for Drug Abuse in Germany
 
+## Mathematical Modelling Competition
+
+### [Modelling the Spread of Vespa Mandarinia in Washington State](https://drive.google.com/file/d/1HdtqhLlWoN8vA84FmMvP5cbHdl562g3R/view?usp=sharing)
+
+**Description** Completed as an entry for the 2021 Mathematical Modelling Competition, this project proposes a model that prioritizes resources to sites of new encounters with the Asian Giant Hornet using environmental variables as predictors of spread and colonization. The model utilizes GIS mapping systems and existing monitoring infrastructure to identify potential spread outward and determine areas most likely to host the hornets in the future, enabling local authorities to act quickly to quell the invasion before the hornets become established.
+
+**Skills** data cleaning, data analysis, data visualization, statistical modelling
+
+**Technology** Tableau, R
 
 # Certificates 
 
