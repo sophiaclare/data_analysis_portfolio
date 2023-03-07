@@ -16,8 +16,8 @@ This repository serves as a showcase of my skills, a platform to share my projec
   * [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/data_analysis_portfolio#new-zealand-citizenship-by-country-of-birth)
 - [Tableau](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#tableau)
   * [Penn State DataFest 2021](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#penn-state-datafest-2021)
-- [Mathematical Modelling Competition]()
-  * [Modelling the Spread of Vespa Mandarinia in Washington State]
+- [MCM/ICM Mathematical Modelling Competition](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#mathematical-modelling-competition)
+  * [Modelling the Spread of Vespa Mandarinia in Washington State](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#modelling-the-spread-of-vespa-mandarinia-in-washington-state)
 - [Certificates](https://github.com/sophiaclare/data_analysis_portfolio#certificates) 
 
 
@@ -48,7 +48,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results** Constructing a Risk Profile for Drug Abuse in Germany
 
-## Mathematical Modelling Competition
+## MCM/ICM Mathematical Modelling Competition
 
 ### [Modelling the Spread of Vespa Mandarinia in Washington State](https://drive.google.com/file/d/1HdtqhLlWoN8vA84FmMvP5cbHdl562g3R/view?usp=sharing)
 
