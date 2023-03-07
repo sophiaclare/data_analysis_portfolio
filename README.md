@@ -40,23 +40,23 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### [Penn State DataFest 2021](https://drive.google.com/file/d/17d4qNMA1fWdwak2E3hV8WgiuTk2t6Yia/view?usp=sharing)
 
-**Description** Entry for a competition held at Penn State in 2021, where each group is given a task and a data set to work with. My group recieved data on the Opiod Epidemic in Germany, and were required to create data visualizations and a predictive model for risk levels.
+**Description:** Entry for a competition held at Penn State in 2021, where each group is given a task and a data set to work with. My group recieved data on the Opiod Epidemic in Germany, and were required to create data visualizations and a predictive model for risk levels.
 
-**Skills** data cleaning, data analysis, data visualization, statistical modelling
+**Skills:** data cleaning, data analysis, data visualization, statistical modelling
 
-**Technology** Tableau, R
+**Technology:** Tableau, R
 
-**Results** Constructing a Risk Profile for Drug Abuse in Germany
+**Results:** Constructing a Risk Profile for Drug Abuse in Germany
 
 ## MCM/ICM Mathematical Modelling Competition
 
 ### [Modelling the Spread of Vespa Mandarinia in Washington State](https://drive.google.com/file/d/1HdtqhLlWoN8vA84FmMvP5cbHdl562g3R/view?usp=sharing)
 
-**Description** Completed as an entry for the 2021 Mathematical Modelling Competition, this project proposes a model that prioritizes resources to sites of new encounters with the Asian Giant Hornet using environmental variables as predictors of spread and colonization. The model utilizes GIS mapping systems and existing monitoring infrastructure to identify potential spread outward and determine areas most likely to host the hornets in the future, enabling local authorities to act quickly to quell the invasion before the hornets become established.
+**Description:** Completed as an entry for the 2021 Mathematical Modelling Competition, this project proposes a model that prioritizes resources to sites of new encounters with the Asian Giant Hornet using environmental variables as predictors of spread and colonization. The model utilizes GIS mapping systems and existing monitoring infrastructure to identify potential spread outward and determine areas most likely to host the hornets in the future, enabling local authorities to act quickly to quell the invasion before the hornets become established.
 
-**Skills** data cleaning, data analysis, data visualization, statistical modelling
+**Skills:** data cleaning, data analysis, data visualization, statistical modelling
 
-**Technology** Tableau, R
+**Technology:** Tableau, R
 
 # Certificates 
 
