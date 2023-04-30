@@ -14,6 +14,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 - [Portfolio Projects](https://github.com/sophiaclare/data_analysis_portfolio#portfolio-projects)
 - [R](https://github.com/sophiaclare/data_analysis_portfolio#r)
   * [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/data_analysis_portfolio#new-zealand-citizenship-by-country-of-birth)
+-[Python](LINK HERE)
 - [Tableau](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#tableau)
   * [Penn State DataFest 2021](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#penn-state-datafest-2021)
 - [MCM/ICM Mathematical Modelling Competition](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#mcmicm-mathematical-modelling-competition)
@@ -35,6 +36,19 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** R, Tidyverse, ggplot2, dplyr, scales
 
 **Results:** Review of the top countries that migrants to New Zealand were born in. 
+
+## Python
+
+### [CFG Python Project](https://sophiaclare.github.io/R-Projects/)
+
+**Description:** This code reads data from a CSV file containing monthly sales data, and then performs various calculations on the data to provide insights into the sales performance. It calculates the total sales across all months, the average sales, the month with the highest sales, the month with the lowest sales, and the monthly changes as a percentage.
+
+**Skills:** Data reading and manipulation, data analysis, statistical analysis, rounding and formatting output.
+
+**Technology:** Python, CSV file format.
+
+**Results:** The code provides valuable insights into the sales performance, allowing stakeholders to make informed decisions based on the data. It calculates the total sales, average sales, and identifies the months with the highest and lowest sales. Additionally, it provides the monthly changes as a percentage, which can be used to identify trends and patterns in the sales data. The output is rounded and formatted in a clear and concise manner, making it easy to understand and interpret.
+
 
 ## Tableau 
 
@@ -61,3 +75,4 @@ In this section I will list data analytics projects briefly describing the techn
 # Certificates 
 
 - [Google Data Analytics Certificate](https://www.credly.com/badges/618e2270-137a-441c-8a6e-4fa487ec1171/linked_in_profile)
+- [Code First Girls Introduction to Python and Apps](https://drive.google.com/file/d/1FegXDpmVvSM_IvLByQJPo0chAvxk5VuF/view?usp=sharing)
