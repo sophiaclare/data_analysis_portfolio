@@ -15,7 +15,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 - [R](https://github.com/sophiaclare/data_analysis_portfolio#r)
   * [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/data_analysis_portfolio#new-zealand-citizenship-by-country-of-birth)
 - [Python](https://github.com/sophiaclare/data_analysis_portfolio#python)
-  * [CFG Python Project - Sales Analysis](https://github.com/sophiaclare/python-projects/blob/main/CFG-Sales-Analysis.py)
+  * [CFG Python Project - Sales Analysis](https://github.com/sophiaclare/data_analysis_portfolio#python)
 - [Tableau](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#tableau)
   * [Penn State DataFest 2021](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#penn-state-datafest-2021)
 - [MCM/ICM Mathematical Modelling Competition](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#mcmicm-mathematical-modelling-competition)
@@ -42,13 +42,12 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### [CFG Python Project - Sales Analysis](https://github.com/sophiaclare/python-projects/blob/main/CFG-Sales-Analysis.py)
 
-**Description:** This project was completed as the final assesment of the Code First Girls Introduction to Python and Apps course. This code reads data from a CSV file containing monthly sales data, and then performs various calculations on the data to provide insights into the sales performance. It calculates the total sales across all months, the average sales, the month with the highest sales, the month with the lowest sales, and the monthly changes as a percentage.
+**Description:** This project reads monthly sales data from a CSV file and performs various calculations on the data to provide insights into the sales performance. The code calculates the total sales across all months, the average sales, the month with the highest sales, the month with the lowest sales, and the monthly changes as a percentage. It then creates a bar chart of the sales by month to visually represent the data.
 
-**Skills:** Data reading and manipulation, data analysis, statistical analysis, rounding and formatting output.
+**Skills:** Data reading and manipulation, data analysis, statistical analysis, rounding and formatting output, data visualization.
+**Technology:** Python, CSV file format, Pandas, Matplotlib.
 
-**Technology:** Python, CSV file format.
-
-**Results:** The code provides valuable insights into the sales performance, allowing stakeholders to make informed decisions based on the data. It calculates the total sales, average sales, and identifies the months with the highest and lowest sales. Additionally, it provides the monthly changes as a percentage, which can be used to identify trends and patterns in the sales data. The output is rounded and formatted in a clear and concise manner, making it easy to understand and interpret.
+**Results:** The code provides valuable insights into the sales performance, allowing stakeholders to make informed decisions based on the data. It calculates the total sales, average sales, and identifies the months with the highest and lowest sales. Additionally, it provides the monthly changes as a percentage, which can be used to identify trends and patterns in the sales data. The bar chart created provides a clear visual representation of the sales by month, making it easy to understand and interpret. The output is rounded and formatted in a clear and concise manner, further enhancing its readability.
 
 
 ## Tableau 
