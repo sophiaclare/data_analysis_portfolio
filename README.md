@@ -15,7 +15,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 - [R](https://github.com/sophiaclare/data_analysis_portfolio#r)
   * [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/data_analysis_portfolio#new-zealand-citizenship-by-country-of-birth)
 - [Python](https://github.com/sophiaclare/data_analysis_portfolio#python)
-  * [CFG Python Project - Sales Analysis]
+  * [CFG Python Project - Sales Analysis](https://github.com/sophiaclare/python-projects/blob/main/CFG-Sales-Analysis.py)
 - [Tableau](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#tableau)
   * [Penn State DataFest 2021](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#penn-state-datafest-2021)
 - [MCM/ICM Mathematical Modelling Competition](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#mcmicm-mathematical-modelling-competition)
@@ -40,7 +40,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Python
 
-### [CFG Python Project - Sales Analysis](https://sophiaclare.github.io/R-Projects/)
+### [CFG Python Project - Sales Analysis](https://github.com/sophiaclare/python-projects/blob/main/CFG-Sales-Analysis.py)
 
 **Description:** This project was completed as the final assesment of the Code First Girls Introduction to Python and Apps course. This code reads data from a CSV file containing monthly sales data, and then performs various calculations on the data to provide insights into the sales performance. It calculates the total sales across all months, the average sales, the month with the highest sales, the month with the lowest sales, and the monthly changes as a percentage.
 
