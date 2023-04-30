@@ -15,7 +15,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 - [R](https://github.com/sophiaclare/data_analysis_portfolio#r)
   * [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/data_analysis_portfolio#new-zealand-citizenship-by-country-of-birth)
 - [Python](https://github.com/sophiaclare/data_analysis_portfolio#python)
-  * [CFG Python Project - Sales Analysis](https://github.com/sophiaclare/data_analysis_portfolio#python)
+  * [CFG Python Project - Sales Analysis](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#cfg-python-project---sales-analysis)
 - [Tableau](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#tableau)
   * [Penn State DataFest 2021](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#penn-state-datafest-2021)
 - [MCM/ICM Mathematical Modelling Competition](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#mcmicm-mathematical-modelling-competition)
