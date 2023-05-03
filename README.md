@@ -42,7 +42,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Python
 
-### [CFG Python Project - Sales Analysis](https://github.com/sophiaclare/python-projects/blob/main/CFG-Sales-Analysis.py)
+### [CFG Python Project - Sales Analysis](https://github.com/sophiaclare/python-projects/blob/main/README.md)
 
 **Description:** This project reads monthly sales data from a CSV file and performs various calculations on the data to provide insights into the sales performance. The code calculates the total sales across all months, the average sales, the month with the highest sales, the month with the lowest sales, and the monthly changes as a percentage. It then creates a bar chart of the sales by month to visually represent the data.
 
