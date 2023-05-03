@@ -38,6 +38,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Review of the top countries that migrants to New Zealand were born in. 
 
+![alt text](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/NZ%20Citizen%20Charts.png?raw=true)
+
 ## Python
 
 ### [CFG Python Project - Sales Analysis](https://github.com/sophiaclare/python-projects/blob/main/CFG-Sales-Analysis.py)
