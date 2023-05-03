@@ -48,7 +48,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Skills:** Data reading and manipulation, data analysis, statistical analysis, rounding and formatting output, data visualization.
 
-**Technology:** Python, CSV file format, Pandas, Matplotlib.
+**Technology:** Python, CSV file format, Pandas, Matplotlib, NumPy.
 
 **Results:** The code provides valuable insights into the sales performance, allowing stakeholders to make informed decisions based on the data. It calculates the total sales, average sales, and identifies the months with the highest and lowest sales. Additionally, it provides the monthly changes as a percentage, which can be used to identify trends and patterns in the sales data. The bar chart created provides a clear visual representation of the sales by month, making it easy to understand and interpret. The output is rounded and formatted in a clear and concise manner, further enhancing its readability.
 
