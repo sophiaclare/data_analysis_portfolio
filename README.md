@@ -16,6 +16,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
   * [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/data_analysis_portfolio#new-zealand-citizenship-by-country-of-birth)
 - [Python](https://github.com/sophiaclare/data_analysis_portfolio#python)
   * [CFG Python Project - Sales Analysis](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#cfg-python-project---sales-analysis)
+- [SQL]
 - [Tableau](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#tableau)
   * [Penn State DataFest 2021](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#penn-state-datafest-2021)
 - [MCM/ICM Mathematical Modelling Competition](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/README.md#mcmicm-mathematical-modelling-competition)
@@ -53,6 +54,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** The code provides valuable insights into the sales performance, allowing stakeholders to make informed decisions based on the data. It calculates the total sales, average sales, and identifies the months with the highest and lowest sales. Additionally, it provides the monthly changes as a percentage, which can be used to identify trends and patterns in the sales data. The bar chart created provides a clear visual representation of the sales by month, making it easy to understand and interpret. The output is rounded and formatted in a clear and concise manner, further enhancing its readability.
 
 ![alt text](https://github.com/sophiaclare/python-projects/blob/main/CFG_sales_visualization.png?raw=true)
+
+## SQL
+### CFG Final Project - University System Database Manipulation 
+
+![alt text](https://github.com/sophiaclare/SQL/blob/main/CFG_SQL_IMAGE.png?raw=true)
 
 ## Tableau 
 
