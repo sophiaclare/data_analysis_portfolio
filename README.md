@@ -59,7 +59,7 @@ In this section I will list data analytics projects briefly describing the techn
 ## SQL
 ### CFG Final Project - University System Database Manipulation 
 
-![alt text](https://github.com/sophiaclare/SQL/blob/main/CFG_SQL_IMAGE.png?raw=true)
+![alt text](https://github.com/sophiaclare/SQL/blob/main/CFG_SQl_IMAGE.png?raw=true)
 
 ## Tableau 
 
