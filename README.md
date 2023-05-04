@@ -28,7 +28,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## R 
 
-### [New Zealand Citizenship by Country of Birth](https://sophiaclare.github.io/R-Projects/)
+### [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/R-Projects/blob/main/NZ%20Citizenship%20Project.nb.pdf)
 
 **Description:** This project analyzes data on citizenship granted in New Zealand from 1949 to 2019, obtained from the Department of Internal Affairs.  The aim of the project is to identify the top five countries where people who earned New Zealand citizenship were born, and to analyze the trends in the number of citizenships granted to these countries over time.
 
