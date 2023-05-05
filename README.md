@@ -58,7 +58,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## SQL
 
-### CFG Final Project - University System Database Manipulation 
+### [CFG Final Project - University System Database Manipulation](https://github.com/sophiaclare/SQL/blob/main/CFG%20SQL%20Presentation.pdf) 
 
 **Description:** Developed a simple relational database for a university system to manage students, professors, departments, courses, and course registrations. The project included creating tables, setting primary and foreign key constraints, creating a view, a stored function, a stored procedure, and a trigger, as well as writing and executing example SQL queries.
 
