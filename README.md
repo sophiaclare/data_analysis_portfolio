@@ -28,6 +28,20 @@ This repository serves as a showcase of my skills, a platform to share my projec
 # Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+## Data Physicalization
+
+### Edinburgh's Airbnb Landscape: A Technical Exploration Through Spatial Analysis and 3D Modeling
+
+**Description:** This project investigates the distribution and impact of Airbnb listings in Edinburgh, focusing on how short-term rentals are reshaping the city's housing market and community life. The aim is to visualize the concentration of Airbnb properties within the city and examine the areas most affected by the expansion of short-term rentals. The project employs a unique approach by creating a three-dimensional printed map of Edinburgh, using hexbins to represent the density of Airbnb listings across different wards. This physical representation allows for an interactive exploration, enabling users to visualize and understand the spatial distribution of Airbnb properties and their potential impact on the city.
+
+**Skills:** Data cleaning, spatial analysis, 3D modeling, data visualization
+
+**Technology:** Python for data processing and geocoding, QGIS for spatial analysis and data preparation, Foursquare Studio for digital 3D visualization, Blender and Fusion360 for 3D model preparation, and Flourish for creating 2D visualizations for projection.
+
+**Datasets:** The project leverages multiple datasets, including detailed Airbnb listing data from Inside Airbnb, ward boundary data from the Edinburgh City Council, and resident complaints data related to short-term rentals obtained via a Freedom of Information request. These datasets were integrated and analyzed to highlight the distribution of Airbnb listings, their characteristics, and the public sentiment towards short-term rentals in Edinburgh.
+
+**Results:** The physical visualization revealed a significant concentration of Airbnb listings in central Edinburgh, highlighting areas potentially vulnerable to the impacts of short-term rentals on housing availability and community cohesion. The project also exposed residents' concerns regarding the influence of Airbnb on neighborhood dynamics and housing prices. By transitioning from traditional 2D data visualizations to a tangible 3D model, the project effectively engages the public, encouraging a deeper understanding and dialogue about the challenges and implications of short-term rentals in Edinburgh. Through this innovative approach, the project aims to foster informed discussions and policy considerations to balance tourism benefits with community well-being.
+
 ## R 
 
 ### [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/R-Projects/blob/main/NZ%20Citizenship%20Project.nb.pdf)
