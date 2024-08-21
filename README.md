@@ -90,6 +90,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Tableau 
 
+### [Universal Basic Income Pilots](https://public.tableau.com/views/FinalProject_17128510952690/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Description:** Developed an interactive Tableau dashboard titled "Universal Basic Income Pilots," utilizing Tableau's Story feature to explore and visualize global experiments on Universal Basic Income (UBI). The dashboard includes case studies from Finland and India, a detailed timeline of UBI experiments, and an interactive map displaying the geographical distribution of these experiments. The project also visualizes key metrics such as the average length of experiments, the number of participants, and the types of funding involved. This dashboard provides stakeholders with a comprehensive overview of UBI initiatives worldwide and supports data-driven discussions on social welfare policies.
+
+**Skills:** Data visualization, storytelling with data, spatial analysis, interactive dashboard creation, data cleaning and preparation, statistical analysis.
+
+**Technology:** Tableau Public, Tableau Story feature, data from public databases and research studies.
+
+**Results:** The resulting dashboard effectively communicates the scale and diversity of UBI experiments globally. The interactive elements allow users to explore the data by country, funding type, and participant size, making it a powerful tool for policymakers, researchers, and the public to understand the impact and challenges of UBI implementations. The visualization highlights key trends, such as the recent surge in UBI experiments, and facilitates informed decision-making regarding future UBI policies.
+
 ### [Penn State DataFest 2021](https://drive.google.com/file/d/17d4qNMA1fWdwak2E3hV8WgiuTk2t6Yia/view?usp=sharing)
 
 **Description:** Entry for a competition held at Penn State in 2021, where each group is given a task and a data set to work with. My group recieved data on the Opiod Epidemic in Germany, and were required to create data visualizations and a predictive model for risk levels.
