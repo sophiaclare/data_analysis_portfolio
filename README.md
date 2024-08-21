@@ -12,6 +12,8 @@ This repository serves as a showcase of my skills, a platform to share my projec
 # Table of Contents
 - [About](https://github.com/sophiaclare/data_analysis_portfolio#about)
 - [Portfolio Projects](https://github.com/sophiaclare/data_analysis_portfolio#portfolio-projects)
+- [Data Physicalization](https://github.com/sophiaclare/data_analysis_portfolio/tree/main?tab=readme-ov-file#data-physicalization)
+  * [Edinburgh's Airbnb Landscape: A Technical Exploration Through Spatial Analysis and 3D Modeling](https://github.com/sophiaclare/data_analysis_portfolio/tree/main?tab=readme-ov-file#edinburghs-airbnb-landscape-a-technical-exploration-through-spatial-analysis-and-3d-modeling)
 - [R](https://github.com/sophiaclare/data_analysis_portfolio#r)
   * [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/data_analysis_portfolio#new-zealand-citizenship-by-country-of-birth)
 - [Python](https://github.com/sophiaclare/data_analysis_portfolio#python)
