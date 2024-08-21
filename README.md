@@ -44,6 +44,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The physical visualization revealed a significant concentration of Airbnb listings in central Edinburgh, highlighting areas potentially vulnerable to the impacts of short-term rentals on housing availability and community cohesion. The project also exposed residents' concerns regarding the influence of Airbnb on neighborhood dynamics and housing prices. By transitioning from traditional 2D data visualizations to a tangible 3D model, the project effectively engages the public, encouraging a deeper understanding and dialogue about the challenges and implications of short-term rentals in Edinburgh. Through this innovative approach, the project aims to foster informed discussions and policy considerations to balance tourism benefits with community well-being.
 
+![alt text]https://github.com/sophiaclare/images/blob/main/Untitled%20design.jpg)
+
 ## R 
 
 ### [New Zealand Citizenship by Country of Birth](https://github.com/sophiaclare/R-Projects/blob/main/NZ%20Citizenship%20Project.nb.pdf)
